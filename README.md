@@ -1,5 +1,3 @@
-# VIRTUNEXA-Week-1
-
 # 🎵 Simple Music Player
 
 A clean and responsive web-based music player built using HTML, CSS, and JavaScript. It features basic playback controls and a progress bar synced with audio playback.
